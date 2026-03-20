@@ -1,4 +1,3 @@
-
 use std::io;
 
 fn isprime(n: i32) -> bool {
